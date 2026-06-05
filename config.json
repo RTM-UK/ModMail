@@ -1,1 +1,4 @@
-
+{
+  "modmailChannelId": "Channel ID for where you want mod mail to go to",
+  "prefix": "!"
+}
